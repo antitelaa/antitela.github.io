@@ -1,4 +1,3 @@
-# antitela.github.io[index.html](https://github.com/user-attachments/files/34131353/index.html)
 ```html
 <!DOCTYPE html>
 <html lang="ru">
